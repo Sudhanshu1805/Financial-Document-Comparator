@@ -1,0 +1,6 @@
+# List of dependencies
+pytesseract
+PyPDF2
+scikit-learn
+streamlit
+pillow
